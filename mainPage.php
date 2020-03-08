@@ -17,6 +17,7 @@
       </div>
 	<!-- HERE INSERT THE LOGIN PAGE IN HREF-->
     <div id="headerLinks"><a href="#" title="Login/Register">Login/Register</a><a href="#" title="Cart">Cart</a></div> 
+	  <p>HI</p>
   </header>
   <section id="offer"> <!-- HEREEEEEEEEEEEEEEEEEEEE -->
     <!-- The offer section displays a banner text for promotions -->
