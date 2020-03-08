@@ -12,7 +12,7 @@
 <div id="mainWrapper">
   <header> 
     <!-- This is the header content. It contains Logo and links -->
-    <div id="logo"> <img src="600px-EBay_logo.svg.png" alt="sample logo">
+    <div id="logo"> <img src="images/600px-EBay_logo.svg.png" alt="sample logo">
       <!-- Company Logo text --> 
       </div>
 	<!-- HERE INSERT THE LOGIN PAGE IN HREF-->
@@ -23,7 +23,7 @@
     <h2>Hello, </h2>
     <p>MOST POPULAR THIS WEEK!!!!</p>
 	<div class="profilePhoto"> 
-	<img alt="sample" src="eCommerceAssets/images/200x200.png" align="left" style="margin-right: 20px;"></div>
+	<img alt="sample" src="images/200x200.png" align="left" style="margin-right: 20px;"></div>
 	<h1 class="text-center">Product Name</h1>
 	<p class="text-center">Description</p>
 	<p><span>Price :</span> £20</p>
@@ -95,19 +95,19 @@
       <div class="productRow"> 
         <!-- Each product row contains info of 3 elements -->
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="eCommerceAssets/images/200x200.png"></div>
+          <div><img alt="sample" src="images/200x200.png"></div>
           <p class="price">£50</p>
           <p class="productContent">Content holder</p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="eCommerceAssets/images/200x200.png"></div>
+          <div><img alt="sample" src="images/200x200.png"></div>
           <p class="price">£50</p>
           <p class="productContent">Content holder</p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="eCommerceAssets/images/200x200.png"></div>
+          <div><img alt="sample" src="images/200x200.png"></div>
           <p class="price">$50</p>
           <p class="productContent">Content holder</p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -115,19 +115,19 @@
       </div>
       <div class="productRow">
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="eCommerceAssets/images/200x200.png"></div>
+          <div><img alt="sample" src="images/200x200.png"></div>
           <p class="price">£50</p>
           <p class="productContent">Content holder</p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="eCommerceAssets/images/200x200.png"></div>
+          <div><img alt="sample" src="images/200x200.png"></div>
           <p class="price">$50</p>
           <p class="productContent">Content holder</p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="eCommerceAssets/images/200x200.png"></div>
+          <div><img alt="sample" src="images/200x200.png"></div>
           <p class="price">£50</p>
           <p class="productContent">Content holder</p>
           <input type="button" name="button" value="Buy" class="buyButton">
