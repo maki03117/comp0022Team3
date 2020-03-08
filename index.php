@@ -68,7 +68,7 @@
     <section class="mainContent">
       <div class="productRow"><!-- Each product row contains info of 3 elements -->
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="eCommerceAssets/images/200x200.png"></div>
+          <div><img alt="sample" src="images/200x200.png"></div>
           <p class="price">£50</p>
           <p class="productContent">Content holder </p>
 		  <p class="weight">500g</p>
@@ -76,7 +76,7 @@
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="eCommerceAssets/images/200x200.png"></div>
+          <div><img alt="sample" src="images/200x200.png"></div>
           <p class="price">£50</p>
           <p class="productContent">Content holder </p>
 		  <p class="weight">500g</p>
@@ -84,7 +84,7 @@
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="eCommerceAssets/images/200x200.png"></div>
+          <div><img alt="sample" src="images/200x200.png"></div>
           <p class="price">£50</p>
           <p class="productContent">Content holder </p>
 		  <p class="weight">500g</p>
@@ -108,7 +108,7 @@
         </article>
         <article class="productInfo"><!-- Each individual product description -->
           <div><img alt="sample" src="images/200x200.png"></div>
-          <p class="price">$50</p>
+          <p class="price">£50</p>
           <p class="productContent">Content holder</p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -122,7 +122,7 @@
         </article>
         <article class="productInfo"><!-- Each individual product description -->
           <div><img alt="sample" src="images/200x200.png"></div>
-          <p class="price">$50</p>
+          <p class="price">£50</p>
           <p class="productContent">Content holder</p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
