@@ -1,3 +1,4 @@
+<?php include 'database.php'; ?>
 <!doctype html>
 <html>
 <head>
@@ -14,7 +15,7 @@
     <!-- This is the header content. It contains Logo and links -->
     <div id="logo"> <img src="images/600px-EBay_logo.svg.png" alt="sample logo">
       <!-- Company Logo text --> 
-      </div>
+    </div>
 	<!-- HERE INSERT THE LOGIN PAGE IN HREF-->
     <div id="headerLinks"><a href="#" title="Login/Register">Login/Register</a><a href="profile.php" title="Profile">Profile</a></div> 
   </header>
@@ -23,16 +24,17 @@
     <h2>Hello, </h2>
     <p>MOST POPULAR THIS WEEK!!!!</p>
 	<div class="profilePhoto"> 
-	<img alt="sample" src="images/200x200.png" align="left" style="margin-right: 20px;"></div>
+		<img alt="sample" src="images/200x200.png" align="left" style="margin-right: 20px;">
+	</div>
 	<h1 class="text-center">Product Name</h1>
 	<p class="text-center">Description</p>
 	<p><span>Price :</span> £20</p>
 	<p><span>Weight :</span> 500g</p>
     <div class="row justify-content-center">
-    <div class="col-auto">
-	  <p><a class="btn btn-primary btn-lg" href="#" role="button">BUY NOW</a> </p>
-    </div>
-</div>
+		<div class="col-auto">
+		  <p><a class="btn btn-primary btn-lg" href="#" role="button">BUY NOW</a> </p>
+		</div>
+	</div>
 	<img src="images/1200X400.gif" alt="" class="img-fluid"> 
   </section>
   <div id="content">

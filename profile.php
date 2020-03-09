@@ -9,6 +9,7 @@
 <script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/montserrat:n4:default;source-sans-pro:n2:default.js" type="text/javascript"></script>
 </head>
 <body>
+  <div id="mainWrapper">
 	<header> 
 	<!-- This is the header content. It contains Logo and links -->
 	  <div id="logo"> <img src="images/600px-EBay_logo.svg.png" alt="sample logo">
@@ -64,5 +65,6 @@
 			</li>
 		</ul>
 	</div>
+  </div>
 </body>
 </html>

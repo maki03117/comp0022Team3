@@ -14,10 +14,9 @@ header {
 	font-weight: 400;
 }
 
-hr {
-  box-sizing: content-box;
-  height: 0;
-  overflow: visible;
+#mainWrapper{
+	width: 80%;
+	padding-left: 10%;
 }
 
 /* Logo placeholder*/
